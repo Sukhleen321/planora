@@ -2,11 +2,6 @@
 
 > A full-stack travel itinerary generator powered by a custom recommendation engine — not just an AI prompt.
 
-## 🌐 Live Demo
-🔗 [planora.vercel.app](https://planora.vercel.app) ← add this after deployment
-
----
-
 ## 📌 What is Planora?
 
 Planora is a full-stack web application that generates personalized day-by-day travel itineraries based on:
