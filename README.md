@@ -2,11 +2,6 @@
 
 > A full-stack travel itinerary generator powered by a custom recommendation engine — not just an AI prompt.
 
-![Planora Banner](https://img.shields.io/badge/Planora-Travel%20Planner-3B82F6?style=for-the-badge&logo=airplane)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ## 🌐 Live Demo
 🔗 [planora.vercel.app](https://planora.vercel.app) ← add this after deployment
 
