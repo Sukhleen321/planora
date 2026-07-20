@@ -235,11 +235,11 @@ export default function Landing() {
       <footer className="footer">
         <div className="container footer-container">
           <span className="footer-text">
-            &copy; 2026 Planora. Built with passion.
+            &copy; 2026 Planora. Built with ❤️ by Sukhleen.
           </span>
           <div className="footer-links">
             <a href="#" className="footer-link">About</a>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="footer-link">
+            <a href="https://github.com/Sukhleen321/planora" target="_blank" rel="noopener noreferrer" className="footer-link">
               GitHub
             </a>
           </div>
