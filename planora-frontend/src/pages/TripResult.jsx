@@ -44,7 +44,7 @@ export default function TripResult() {
 
   const exportPDF = () => {
     const token = localStorage.getItem('token');
-    window.open(`http://localhost:5000/api/trips/${id}/export?token=${token}`);
+    window.open(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/trips/${id}/export?token=${token}`);
   };
 
   const shareTrip = () => {

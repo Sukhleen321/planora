@@ -13,7 +13,7 @@ export default function SharePage() {
 
   const loadSharedTrip = async () => {
     try {
-      const res = await fetch(`http://localhost:5000/api/trips/${id}/share`);
+      const res = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/trips/${id}/share`);
       if (!res.ok) {
         throw new Error('Failed to load shared trip');
       }
